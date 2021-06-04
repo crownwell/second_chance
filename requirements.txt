@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-Django==3.0.6
+Django==3.1.9
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 Pillow==5.4.1
